@@ -1,0 +1,3 @@
+browserify index.js --standalone foo > app.js
+
+# source https://www.npmjs.com/package/bitcoinjs
